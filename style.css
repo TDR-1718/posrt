@@ -1,0 +1,81 @@
+body{
+    background: red;
+}
+
+
+
+
+
+
+h1{
+    background: black;
+    text-align: center;
+    font-size: 56px;
+    border-radius: 15px;
+    color: red;
+}
+.menus{
+    background:black;
+    text-align: center;
+    border-radius: 10px;
+}
+.menu-inicio{
+    border-radius: 10px;
+    font-size: 15px;
+}
+.links{
+    list-style: none;
+    text-align: center;
+    font-size: 24px;
+    color: red;
+}
+p{
+    text-align: center;
+}
+.im{
+    height: 100%;
+    width: 100%;
+    border-radius: 90px;
+  
+}
+p{
+    background: black;
+    color: greenyellow;
+    border-radius: 20px;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.im2{
+    width: 80%;
+    height: 80%;
+    background: black;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 150px 100px 10px;
+
+}
+.a2{
+    font-size: 20px;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    background: red;
+    border-radius: 180%;
+    margin: 20%;
+    display: block;
+    padding: 20%;
+    color: red;
+    font-size: 32px;
+    background-image: url("imagenes/ass.jpg");
+    background-size: 100%;
+    background-position: left 80%;
+
+}
+
+li{
+    font-size: 40px;
+}
